@@ -1,0 +1,7 @@
+add_subdirectory(lv_core)
+add_subdirectory(lv_draw)
+add_subdirectory(lv_font)
+add_subdirectory(lv_hal)
+add_subdirectory(lv_misc)
+add_subdirectory(lv_objx)
+add_subdirectory(lv_themes)
